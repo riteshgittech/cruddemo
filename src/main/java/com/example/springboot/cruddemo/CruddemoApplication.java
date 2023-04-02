@@ -12,6 +12,7 @@ public class CruddemoApplication  implements ApplicationRunner{
 	public static void main(String[] args) {
 		SpringApplication.run(CruddemoApplication.class, args);
 		System.out.println("Hi this is springboot2 dfds: " );
+		System.out.println("Git post commit test: " );
 	}
 
 
