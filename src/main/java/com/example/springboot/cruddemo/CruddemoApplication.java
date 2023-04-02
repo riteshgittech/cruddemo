@@ -14,6 +14,7 @@ public class CruddemoApplication  implements ApplicationRunner{
 		System.out.println("Hi this is springboot2 dfds: " );
 		System.out.println("Git post commit test: " );
 		System.out.println("Added line from Github " );
+		System.out.println("Added line for branch1-demo: " );
 	}
 
 
